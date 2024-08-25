@@ -1,2 +1,1 @@
-- Programmer for FRC team 1477 "Texas Torque"
-- Part of a Python revolution 🔥
+- Programmer for FRC 1477, Texas Torque
